@@ -1,0 +1,10 @@
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\bin\Debug\Computer Hardware Information.exe.config
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\bin\Debug\Computer Hardware Information.exe
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\bin\Debug\Computer Hardware Information.pdb
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer Hardware Information.csprojResolveAssemblyReference.cache
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer_Hardware_Information.Form1.resources
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer_Hardware_Information.Properties.Resources.resources
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer Hardware Information.csproj.GenerateResource.Cache
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer Hardware Information.csproj.CoreCompileInputs.cache
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer Hardware Information.exe
+C:\Users\SamedDemir\source\repos\Computer Hardware Information\Computer Hardware Information\obj\Debug\Computer Hardware Information.pdb
